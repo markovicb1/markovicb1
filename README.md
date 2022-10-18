@@ -1,16 +1,18 @@
-### Hi there 👋
-Page still in progress...
-<!--
-**markovicb1/markovicb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome aboard! :hand:
+## I'm Bogdan, and here is some basic info about me:
 
-Here are some ideas to get you started:
+- I'm studying Computer science at *University of Belgrade* :serbia:
+- I'm into various different programming areas, ***currently*** targeting web
+- Here are some langs I mostly work with:
+  - C/C++
+  - Java
+  - Python
+- Not mentioning football:soccer: and table tennis:ping_pong: here would be a total disaster:exclamation:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goal of my Github profile :computer:
+
+Since studying Computer science requires doing many different projects, I decided to put some interesting ones here, not just for others but also for myself in future.
+
+Some personal projects i find interesting are also present here (or will be).
+
+### More info coming soon :construction_worker:
