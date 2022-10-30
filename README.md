@@ -15,4 +15,8 @@ Since studying Computer science requires doing many different projects, I decide
 
 Some personal projects i find interesting are also present here (or will be).
 
-### More info coming soon :construction_worker:
+## Currently working on... :construction_worker:
+
+- Learning django and Spring
+- Developing personal financial app
+- Updating existing projects (available as open repos)
