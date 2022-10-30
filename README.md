@@ -13,7 +13,7 @@
 
 Since studying Computer science requires doing many different projects, I decided to put some interesting ones here, not just for others but also for myself in future.
 
-Some personal projects i find interesting are also present here (or will be).
+Some personal projects I find interesting are also present here (or will be).
 
 ## Currently working on... :construction_worker:
 
