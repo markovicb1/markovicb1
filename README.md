@@ -18,5 +18,5 @@ Some personal projects I find interesting are also present here (or will be).
 ## Currently working on... :construction_worker:
 
 - Learning django and Spring
-- Developing personal financial app
+- Developing personal django web app
 - Updating existing projects (available as open repos)
