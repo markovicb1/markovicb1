@@ -4,9 +4,9 @@
 - I'm studying Computer science at *University of Belgrade* :serbia:
 - I'm into various different programming areas, ***currently*** targeting web
 - Here are some langs I mostly work with:
-  - C/C++
   - Java
   - Python
+  - C/C++
 - Not mentioning football:soccer: and table tennis:ping_pong: here would be a total disaster:exclamation:
 
 ## Goal of my Github profile :computer:
@@ -17,6 +17,6 @@ Some personal projects I find interesting are also present here (or will be).
 
 ## Currently working on... :construction_worker:
 
-- Learning django and Spring
+- Learning Python django and Java Spring
 - Developing personal django web app
 - Updating existing projects (available as open repos)
