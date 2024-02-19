@@ -1,13 +1,14 @@
 # Welcome aboard! :hand:
-## I'm Bogdan, and here is some basic info about me:
+## I'm Bogdan, and here's some basic info about me:
 
 - I'm studying Computer science at *University of Belgrade* :serbia:
-- I'm into various different programming areas, ***currently*** targeting web
+- I'm into various different programming areas, ***currently*** working on backend web development
 - Here are some langs I mostly work with:
   - Java
   - Python
   - C/C++
-- Not mentioning football:soccer: and table tennis:ping_pong: here would be a total disaster:exclamation:
+  - Javascript
+- Not mentioning football :soccer: and table tennis :ping_pong: here would be a total disaster:exclamation:
 
 ## Goal of my Github profile :computer:
 
@@ -20,3 +21,7 @@ Some personal projects I find interesting are also present here (or will be).
 - Expanding knowledge of Python django and learning Java Spring
 - Developing personal web apps
 - Updating existing projects (available as open repos)
+
+## Contact me... :mailbox_closed:
+
+If you find something interesting in my work or want to collaborate with me on some project, feel free to contact me, I'm always available for new opportunities!
